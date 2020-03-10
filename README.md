@@ -6,6 +6,8 @@ I think that's because my family *owns* beehives
 I also have ~~five~~ six cats
 Their names are as follows:
 1. Salem
+``` this is a pic of me and salem together```
+![alt text](https://www.instagram.com/p/B4-POlBBTwi/?utm_source=ig_web_copy_link)
 1. Ginger Snap
 1. Balthazar
 1. Celseius 
@@ -13,7 +15,11 @@ Their names are as follows:
 1. Gabriel
 
 cats rule, okay?
+
 ``` but I also have a dog named Juno. She's stiny and you can't say the word Cheeseburger around her because she knows what it means and will not leave you alone until you give her one. ```
+
+If you want to know what my sense of humor is like, here's a good example!
+
 
 |         | **yee** | **haw** | **partner** |
 |---------|---------|---------|-------------|

@@ -13,11 +13,11 @@ Their names are as follows:
 
 ``` he kind of looks like this ```
 ![alt text](https://www.meme-arsenal.com/memes/b8f3632522b1e2e0649c68aa75b3e178.jpg "him is a good boi")
-1. Ginger Snap
-1. Balthazar
-1. Celseius 
-1. Momo
-1. Gabriel
+2. Ginger Snap
+3. Balthazar
+4. Celseius 
+5. Momo
+6. Gabriel
 
 cats rule, okay?
 

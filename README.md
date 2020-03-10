@@ -3,10 +3,14 @@
 ### (or dusty, but whatever).
 **********
 I like painting and **bees** incase you haven't noticed.
+
 I think that's because my family *owns* beehives
+
 I also have ~~five~~ six cats
+
 Their names are as follows:
 1. Salem
+
 ``` he kind of looks like this ```
 ![alt text](https://www.meme-arsenal.com/memes/b8f3632522b1e2e0649c68aa75b3e178.jpg "him is a good boi")
 1. Ginger Snap
@@ -26,7 +30,8 @@ If you want to know what my sense of humor is like, here's a good example!
 | **yee** | yeeyee  | yeehaw  | yee partner |
 | **haw** | hawyee  | hawhaw  | haw partner |
 
-This is also one of my fav youtube videos
+This is also one of my fav youtube videos, if u click on the pic it will take u to the vid!
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GpPOMrQGzbk
 " target="_blank"><img src="http://img.youtube.com/vi/GpPOMrQGzbk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

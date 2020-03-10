@@ -1,5 +1,5 @@
 # hi my name is olivia but I don't like that name
-## because my instagram handle is @ dusty.bee  some of my friends call me bee
+## because my instagram handle is @ [dusty.bee](https://www.instagram.com/dusty.bee/)  some of my friends call me bee
 ### (or dusty, but whatever).
 I like painting and **bees** incase you haven't noticed.
 I think that's because my family *owns* beehives
@@ -7,7 +7,7 @@ I also have ~~five~~ six cats
 Their names are as follows:
 1. Salem
 ``` this is a pic of me and salem together```
-![alt text](https://www.instagram.com/p/B4-POlBBTwi/?utm_source=ig_web_copy_link)
+![alt text](https://www.meme-arsenal.com/memes/b8f3632522b1e2e0649c68aa75b3e178.jpg "him is a good boi")
 1. Ginger Snap
 1. Balthazar
 1. Celseius 

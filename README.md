@@ -27,6 +27,6 @@ If you want to know what my sense of humor is like, here's a good example!
 | **haw** | hawyee  | hawhaw  | haw partner |
 
 This is also one of my fav youtube videos
-<a href=https://www.youtube.com/watch?v=nhPcn-2iHJ4
-" target="_blank"><img src="http://img.youtube.com/vi/nhPcn-2iHJ4/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GpPOMrQGzbk
+" target="_blank"><img src="http://img.youtube.com/vi/GpPOMrQGzbk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>

@@ -13,7 +13,7 @@ Their names are as follows:
 1. Gabriel
 
 cats rule, okay?
-``` but I also have a dog named Juno. She's stiny and you can't say the word Cheeseburger around her because she knows what it means and will not leave you alone until you give her one.
+``` but I also have a dog named Juno. She's stiny and you can't say the word Cheeseburger around her because she knows what it means and will not leave you alone until you give her one. ```
 
 |         | **yee** | **haw** | **partner** |
 | **yee** | yeeyee  | yeehaw  | yee partner |
